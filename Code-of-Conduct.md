@@ -1,5 +1,5 @@
 # Code of Conduct
-This was originally a [Google Docs version](https://goo.gl/VsJ8q8)t.
+This was originally a [Google Docs version](https://goo.gl/VsJ8q8).
  
 **Harassment (Quick Version)**
  
