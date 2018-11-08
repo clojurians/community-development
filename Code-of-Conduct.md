@@ -1,5 +1,5 @@
 # Code of Conduct
-This has been taken from the [official Code of conduct documen](https://goo.gl/VsJ8q8)t.
+This was originally a [Google Docs version](https://goo.gl/VsJ8q8)t.
  
 **Harassment (Quick Version)**
  
@@ -11,13 +11,13 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
  
 Participants asked to stop any harassing behavior are expected to comply immediately.
  
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify a Slack administrator immediately, 
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify a Slack administrator immediately.
  
 We expect participants to follow these rules in all discussions in our Slack channels. We think people should follow these rules outside of Slack too!
  
  **Inappropriate Language**
  
-The use of profanity is heavily discouraged. Please refrain from using language that could be deemed inappropriate. We use this Google list of bad words as a guideline for inappropriate language. Participants using inappropriate language will be asked to edit messages when it happens.
+The use of profanity is heavily discouraged. Please refrain from using language that could be deemed inappropriate. We use this [Google list](https://code.google.com/p/badwordslist/downloads/detail?name=badwords.txt) of bad words as a guideline for inappropriate language. Participants using inappropriate language will be asked to edit messages when it happens.
  
  **Owners / Admins**
  
@@ -42,6 +42,18 @@ The role of administrators:
 - They monitor the public channels for inappropriate behavior.
 - They have full voting rights for decisions that affect the group.
 - They have rights in the system tied to the admin role.
+
+**Primary Owner:** Gavin-John Noonan (**@adulteratedjedi**)
+
+**Owners:** Sean Corfield (**@seancorfield**)
+
+**Admins:**
+
+- Anna Pawlicka (**@annapawlicka**)
+- Egg Syntax (**@eggsyntax**)
+- Martin Klepsch (**@martinklepsch**)
+- Robert Stuttaford (**@robert-stuttaford**)
+- Vincent Cantin (**@Vincent Cantin**)
 
  
 
