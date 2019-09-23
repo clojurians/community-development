@@ -54,6 +54,4 @@ The role of administrators:
 - Martin Klepsch (**@martinklepsch**)
 - Robert Stuttaford (**@robert-stuttaford**)
 - Vincent Cantin (**@Vincent Cantin**)
-
- 
-
+- Peter Strömberg (**@pez**)
