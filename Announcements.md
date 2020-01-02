@@ -1,16 +1,16 @@
 ## Rules and guidelines for the `#announcements` channel
 
-`#announcements` is one Clojurians' most popular channels, and a particularly benefitial one for having a healthy, cohesive community of makers.
+`#announcements` is one Clojurians' most popular channels, and a particularly beneficial one for having a healthy, cohesive community of makers.
 
 Because of that, it's important to have some rules about what can be posted, and how often: that way the channel can sustainably keep people engaged.
+
+It's worth mentioning that many people voluntarily get notifications for posts in `#announcements` (as opposed to muting it, at the expense of paying much less attention to the channel), which is another reason to keep it relatively low-traffic.
 
 #### Focus
 
 The focus of the channel is sharing Clojure libraries and projects.
 
-That excludes content that would fit better in `#news-and-articles`, `#events`, etc.
-
-Specifically, the focus of the channel is _not_ 'hit as many eyeballs as possible'. People generally come to the channel with a certain expectation of its contents. People willing to be offered random content will be browsing `#off-topic` or specific channels.
+That excludes content that would fit better in `#news-and-articles` (which includes blog posts, tweets, etc), `#events`, etc.
 
 #### Frequency
 
