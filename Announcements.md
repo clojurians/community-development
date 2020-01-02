@@ -15,6 +15,8 @@ Specifically, the focus of the channel is _not_ 'hit as many eyeballs as possibl
 #### Frequency
 
 * Announcing new libraries is generally always ok.
+  * Perhaps, try to not announce projects too early (unless user feedback is specifically sought): it's reasonable to say makers want to be informed of _libs that can be used_.
+  * Announcing libs too early leads to having to post updates later, depleting overall attention.
 * Posting updates of libraries in `#announcements` is ok, provided that:
   * the update frequency is occasional: think 4 to 6 times per year max.
     * as a rule of thumb, we should try not bother too much people who are aware of the existence of your library, and don't happen to be using it at the moment
