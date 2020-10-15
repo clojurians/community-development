@@ -50,6 +50,7 @@ The role of administrators:
 **Admins:**
 
 - Anna Pawlicka (**@annapawlicka**)
+- Dan Sutton (**@dpsutton**)
 - Egg Syntax (**@eggsyntax**)
 - Martin Klepsch (**@martinklepsch**)
 - Robert Stuttaford (**@robert-stuttaford**)
