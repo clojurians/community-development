@@ -8,4 +8,4 @@ We use the free plan for Slack because of the large number of active users (it w
 
 **For more details see [Andy Fingerhut's write up about archiving and searching those archives](https://github.com/clojurians/community-development/blob/master/clojurians-slack-archive-notes.md).**
 
-This repo also includes historical notes about Slack alternatives that were discussed as part of the old Hackpad documents.
+This repo also includes [historical notes about Slack alternatives that were discussed as part of the old Hackpad documents](https://github.com/clojurians/community-development/tree/master/hackpad-archive).
