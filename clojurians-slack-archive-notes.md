@@ -41,7 +41,7 @@ Zulip Chat](https://clojurians.zulipchat.com/) near the beginning of 2019.
 
 The archive can be found in the [#slack-archive
 stream](https://clojurians.zulipchat.com/#narrow/stream/180378-slack-archive).
-FOR every mirrored Slack channel there's a separate topic. Very likely
+For every mirrored Slack channel there's a separate topic. Very likely
 most of your search results will appear in one of those.
 
 To search it (using the browser):
@@ -56,15 +56,20 @@ channels) under the `slack-archive` stream.
 
 To see the original conversation that any of the found messages
 appeared in, do the following:
-- select the message (a thick border will appear around it)
-- click the topic (e.g. `slack-archive > beginners`)
-- Note: As of 2021-Jan-07, it seems that these steps sometimes get
-  you to the message in the context of its conversation, but sometimes
-  you end up at a completely different message in the topic.  If you
-  experience this, it is not only you it happens for.  This might be a
-  bug in Zulip.
+- Select the message (a thick border will appear around it).
+- Click the topic (e.g. `slack-archive > beginners`).
+- Use the back-button to return to the search results.
 
-Use the back-button to return to the search results.
+Note: As of 2021-Jan-07, the steps above sometimes get you to the
+message in the context of its conversation, but sometimes you end up
+at a completely different message in the topic.  This might be a bug
+in Zulip.  Below is an alternate method that may work more often:
+- Select the message (a thick border will appear around it).
+- When your cursor is anywhere over a message, look in the top right
+  of that message.  A little bit to the left of the message sent time
+  is an icon of three dots stacked vertically.  Clicking that icon
+  pops up a menu.  Select the item "Copy link to conversation".  Paste
+  this link somewhere useful, e.g. a new browser window or tab.
 
 To search within a specific Slack channel, add `topic:` with the
 corresponding name of the channel to the query, e.g.
