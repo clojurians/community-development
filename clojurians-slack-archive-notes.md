@@ -60,7 +60,7 @@ appeared in, do the following:
 - Click the topic (e.g. `slack-archive > beginners`).
 - Use the back-button to return to the search results.
 
-Note: As of 2021-Jan-07, it the steps above sometimes get you to the
+Note: As of 2021-Jan-07, the steps above sometimes get you to the
 message in the context of its conversation, but sometimes you end up
 at a completely different message in the topic.  This might be a bug
 in Zulip.  Below is an alternate method that may work more often:
