@@ -1,7 +1,5 @@
 # community-development
 
-**The self-signup site/link is currently broken: please use this link instead: 👋  Let’s move this to Slack! We’ve got 20522 folks from the team there already. You can sign up here: https://join.slack.com/t/clojurians/shared_invite/zt-lsr4rn2f-jealnYXLHVZ61V2vdi15QQ**
-
 The Clojurians Slack -- self-signup: http://clojurians.net and chat: https://clojurians.slack.com -- is the largest online community of Clojure developers right now (January 2021). Many other online communities for Clojure exist: starting with [r/Clojure on Reddit](https://www.reddit.com/r/Clojure/) and that lists most of the other popular hangouts in its right hand navigation bar (we don't duplicate them here so that we don't have to also keep a list up-to-date here!).
 
 **The Clojurians Slack operates under this [Code of Conduct](https://github.com/clojurians/community-development/blob/master/Code-of-Conduct.md).**
