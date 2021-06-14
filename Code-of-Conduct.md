@@ -43,16 +43,17 @@ The role of administrators:
 - They have full voting rights for decisions that affect the group.
 - They have rights in the system tied to the admin role.
 
-**Primary Owner:** Gavin-John Noonan (**@adulteratedjedi**)
+**Primary Owner:** Sean Corfield (**@seancorfield**)
 
-**Owners:** Sean Corfield (**@seancorfield**)
+**Owners:** 
+- Dan Sutton (**@dpsutton**)
+- Egg Syntax (**@eggsyntax**)
+- Gavin-John Noonan (**@adulteratedjedi**) - Clojurians Founder
+- Peter Strömberg (**@pez**)
 
 **Admins:**
 
 - Anna Pawlicka (**@annapawlicka**)
-- Dan Sutton (**@dpsutton**)
-- Egg Syntax (**@eggsyntax**)
 - Martin Klepsch (**@martinklepsch**)
 - Robert Stuttaford (**@robert-stuttaford**)
 - Vincent Cantin (**@Vincent Cantin**)
-- Peter Strömberg (**@pez**)
