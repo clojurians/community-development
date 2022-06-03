@@ -17,7 +17,7 @@ We expect participants to follow these rules in all discussions in our Slack cha
  
  **Inappropriate Language**
  
-The use of profanity is heavily discouraged. Please refrain from using language that could be deemed inappropriate. We use this [Google list](https://code.google.com/p/badwordslist/downloads/detail?name=badwords.txt) of bad words as a guideline for inappropriate language. Participants using inappropriate language will be asked to edit messages when it happens.
+The use of profanity is heavily discouraged. Please refrain from using language that could be deemed inappropriate. Participants using inappropriate language will be asked to edit messages when it happens.
  
  **Owners / Admins**
  
