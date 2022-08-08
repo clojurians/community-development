@@ -7,7 +7,7 @@ We want this to be a friendly and helpful space for everyone and the Admin team 
 
 
 There are really only two **rules**:
-* Jobs openings may be posted **only in the dedicated channels**: #jobs and #remote-jobs -- **recruiters take note!**
+* Jobs openings may be posted **only in the dedicated channels**: #jobs and #remote-jobs and **must** be Clojure/ClojureScript jobs -- **recruiters take note!**
 * We have a **zero** tolerance policy for spam and unsolicited direct messages of a commercial nature (especially about things like Upwork) -- violators will have their accounts deactivated!
 
 As a reminder, Clojure communities try to follow these guidelines for general conduct -- https://www.clojure.org/community/etiquette -- and this Slack also has a specific Code of Conduct: https://github.com/clojurians/community-development/blob/master/Code-of-Conduct.md
