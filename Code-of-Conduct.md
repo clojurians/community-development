@@ -55,5 +55,6 @@ The role of administrators:
 
 - Anna Pawlicka (**@annapawlicka**)
 - Martin Klepsch (**@martinklepsch**)
+- Michiel Borkent (**@borkdude**)
 - Robert Stuttaford (**@robert-stuttaford**)
 - Vincent Cantin (**@Vincent Cantin**)
