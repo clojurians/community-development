@@ -54,6 +54,7 @@ The role of administrators:
 **Admins:**
 
 - Anna Pawlicka (**@annapawlicka**)
+- Eugene Pakhomov (**@p-himik**)
 - Martin Klepsch (**@martinklepsch**)
 - Michiel Borkent (**@borkdude**)
 - Robert Stuttaford (**@robert-stuttaford**)
