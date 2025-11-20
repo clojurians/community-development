@@ -58,4 +58,5 @@ The role of administrators:
 - Martin Klepsch (**@martinklepsch**)
 - Michiel Borkent (**@borkdude**)
 - Robert Stuttaford (**@robert-stuttaford**)
+- Steven Lombardi (**@Steven Lombardi**)
 - Vincent Cantin (**@Vincent Cantin**)
