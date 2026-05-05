@@ -2,7 +2,7 @@ Hello and welcome to the Clojurians Slack!
 
 We want this to be a friendly and helpful space for everyone and the Admin team here tries to be very active as moderators, to keep things that way.
 * If you are new to Slack and need help navigating around, _ask in #slack-help_
-* If you encounter spam or any kind of harassment, _please report it in #community-development_ (or, if you do not feel comfortable posting about it in public, reach out via direct message to any of the Admins who are online -- _the list of Admins can be found in the Code of Conduct document_: see below).
+* If you encounter spam or any kind of harassment, _please report it in #spam-reports_ (or, if you do not feel comfortable posting about it in public, reach out via direct message to any of the Admins who are online -- _the list of Admins can be found in the Code of Conduct document_: see below).
 * We encourage the use of threads in Slack so that back and forth discussions do not clutter up the channels, allowing multiple conversations to happen at the same time without "talking over" each other.
 
 
